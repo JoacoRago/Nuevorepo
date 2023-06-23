@@ -1,2 +1,2 @@
 # Nuevorepo
-Nuevo repositorio para práctica
+Nuevo repositorio para práctica, vamos a prácticar para ver que onda
